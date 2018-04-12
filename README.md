@@ -1,4 +1,4 @@
-# nlp-deep-learning
+# Deep Learning Models for Text Classification
 
 This repo provide Jupyter notebook for deep-learning models employed in sentiment-analysis type of NLP problem. 
 The notebook is based on the dataset provided in a recent Kaggle competition 'Toxic Comment Classification Challenge' sponsered by Google.
