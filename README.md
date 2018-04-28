@@ -9,7 +9,7 @@ I found the competition and dataset unique for an accesible and beginner-friendl
 
 1. Create a 'data' folder and put train, test, and sample submission files from Kaggle.
 2. Create a 'vector' folder and put glove840B word vector.
-3. If running on CPU-only machine, you need to change CuDNNGRU to GRU and it should work.
+3. If running on CPU-only machine, you need to change CuDNNGRU to GRU.
 4. I have put most of the important model parameters in separate cells so that you can finetune them.
 
 # Requirements:
